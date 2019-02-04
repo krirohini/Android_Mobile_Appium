@@ -1,0 +1,103 @@
+2019-02-01 15:55:29 INFO  CapabilityManager:73 - ****************************** Getting Instance For ***** CapabilityManager ************** 
+2019-02-01 15:55:29 INFO  CapabilityManager:100 - ****************************** Logging Started For CapabilityManager ****************************
+2019-02-01 15:55:29 INFO  CapabilityManager:103 - ****************************** Setting Device Capabilities ************************** 
+2019-02-01 15:55:29 INFO  CapabilityManager:269 - Here is the standard error for the command to get Device Id (if any) ...... error: no devices/emulators found
+2019-02-01 15:55:29 INFO  CapabilityManager:300 - Here is the standard error for the command to get Device OS Version (if any) ...... error: no devices/emulators found
+2019-02-01 15:55:31 ERROR DemoTest:51 - org.openqa.selenium.SessionNotCreatedException: A new session could not be created. Details: The desiredCapabilities object was not valid for the following reason(s): 'deviceName' can't be blank (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 170 milliseconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: '2030007706', ip: '120.255.117.154', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '9.0.4'
+Driver info: io.appium.java_client.android.AndroidDriver
+2019-02-01 15:55:31 INFO  DemoTest:59 -  ******** BEFORE METHOD ******** 
+2019-02-01 15:57:08 INFO  CapabilityManager:73 - ****************************** Getting Instance For ***** CapabilityManager ************** 
+2019-02-01 15:57:08 INFO  CapabilityManager:100 - ****************************** Logging Started For CapabilityManager ****************************
+2019-02-01 15:57:08 INFO  CapabilityManager:103 - ****************************** Setting Device Capabilities ************************** 
+2019-02-01 15:57:09 INFO  CapabilityManager:262 - Here is the output for the command to get Device Id ..... 38c8f972390a09bb
+2019-02-01 15:57:09 INFO  CapabilityManager:293 - Here is the output for the command to get Device OS Version ...... 7.1.1
+2019-02-01 15:57:34 INFO  AppiumUtils:32 -  ****************************** ReactUiUtils is Coming in *************************** 
+2019-02-01 15:57:34 INFO  CapabilityManager:117 - *****************************************************************************************************
+2019-02-01 15:57:34 INFO  DemoTest:59 -  ******** BEFORE METHOD ******** 
+2019-02-01 15:57:34 ERROR AppUtils:47 - java.lang.NullPointerException
+2019-02-01 15:57:34 INFO  DemoTest:70 - demoTest_1
+2019-02-01 15:57:34 INFO  AppUtils:54 - >>>> result.getStatus() >>>> 1
+2019-02-01 15:57:34 INFO  AppUtils:66 -  **************** PASSED **************** demoTest_1 ****************
+2019-02-01 15:57:34 ERROR AppUtils:74 - java.lang.NullPointerException
+2019-02-01 15:57:34 INFO  AppUtils:76 - ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2019-02-01 15:57:34 INFO  AppUtils:78 - ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+
+
+
+ 
+2019-02-01 16:01:26 INFO  CapabilityManager:73 - ****************************** Getting Instance For ***** CapabilityManager ************** 
+2019-02-01 16:01:26 INFO  CapabilityManager:100 - ****************************** Logging Started For CapabilityManager ****************************
+2019-02-01 16:01:26 INFO  CapabilityManager:103 - ****************************** Setting Device Capabilities ************************** 
+2019-02-01 16:01:27 INFO  CapabilityManager:262 - Here is the output for the command to get Device Id ..... 38c8f972390a09bb
+2019-02-01 16:01:27 INFO  CapabilityManager:293 - Here is the output for the command to get Device OS Version ...... 7.1.1
+2019-02-01 16:01:30 ERROR DemoTest:51 - org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: '2030007706', ip: '120.255.117.154', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '9.0.4'
+Driver info: driver.version: AndroidDriver
+2019-02-01 16:01:30 INFO  DemoTest:59 -  ******** BEFORE METHOD ******** 
+2019-02-01 16:16:40 INFO  CapabilityManager:73 - ****************************** Getting Instance For ***** CapabilityManager ************** 
+2019-02-01 16:16:40 INFO  CapabilityManager:100 - ****************************** Logging Started For CapabilityManager ****************************
+2019-02-01 16:16:40 INFO  CapabilityManager:103 - ****************************** Setting Device Capabilities ************************** 
+2019-02-01 16:16:40 INFO  CapabilityManager:262 - Here is the output for the command to get Device Id ..... 38c8f972390a09bb
+2019-02-01 16:16:41 INFO  CapabilityManager:293 - Here is the output for the command to get Device OS Version ...... 7.1.1
+2019-02-01 16:16:43 ERROR DemoTest:51 - org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: '2030007706', ip: '120.255.117.154', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '9.0.4'
+Driver info: driver.version: AndroidDriver
+2019-02-01 16:16:43 INFO  DemoTest:57 -  ******** BEFORE METHOD ******** 
+2019-02-01 16:17:20 INFO  CapabilityManager:73 - ****************************** Getting Instance For ***** CapabilityManager ************** 
+2019-02-01 16:17:20 INFO  CapabilityManager:100 - ****************************** Logging Started For CapabilityManager ****************************
+2019-02-01 16:17:20 INFO  CapabilityManager:103 - ****************************** Setting Device Capabilities ************************** 
+2019-02-01 16:17:21 INFO  CapabilityManager:262 - Here is the output for the command to get Device Id ..... 38c8f972390a09bb
+2019-02-01 16:17:21 INFO  CapabilityManager:293 - Here is the output for the command to get Device OS Version ...... 7.1.1
+2019-02-01 16:17:24 ERROR DemoTest:51 - org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: '2030007706', ip: '120.255.117.154', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '9.0.4'
+Driver info: driver.version: AndroidDriver
+2019-02-01 16:17:24 INFO  DemoTest:57 -  ******** BEFORE METHOD ******** 
+2019-02-01 16:17:33 INFO  CapabilityManager:73 - ****************************** Getting Instance For ***** CapabilityManager ************** 
+2019-02-01 16:17:33 INFO  CapabilityManager:100 - ****************************** Logging Started For CapabilityManager ****************************
+2019-02-01 16:17:33 INFO  CapabilityManager:103 - ****************************** Setting Device Capabilities ************************** 
+2019-02-01 16:17:34 INFO  CapabilityManager:262 - Here is the output for the command to get Device Id ..... 38c8f972390a09bb
+2019-02-01 16:17:34 INFO  CapabilityManager:293 - Here is the output for the command to get Device OS Version ...... 7.1.1
+2019-02-01 16:17:37 ERROR DemoTest:51 - org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: '2030007706', ip: '120.255.117.154', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '9.0.4'
+Driver info: driver.version: AndroidDriver
+2019-02-01 16:17:37 INFO  DemoTest:57 -  ******** BEFORE METHOD ******** 
+2019-02-01 16:19:51 INFO  CapabilityManager:73 - ****************************** Getting Instance For ***** CapabilityManager ************** 
+2019-02-01 16:19:51 INFO  CapabilityManager:100 - ****************************** Logging Started For CapabilityManager ****************************
+2019-02-01 16:19:51 INFO  CapabilityManager:103 - ****************************** Setting Device Capabilities ************************** 
+2019-02-01 16:19:52 INFO  CapabilityManager:263 - Here is the output for the command to get Device Id ..... 38c8f972390a09bb
+2019-02-01 16:19:52 INFO  CapabilityManager:294 - Here is the output for the command to get Device OS Version ...... 7.1.1
+2019-02-01 16:19:52 INFO  CapabilityManager:172 - ****************************** STARTING APPIUM SERVER ****************************
+2019-02-01 16:19:52 ERROR CapabilityManager:201 - io.appium.java_client.service.local.InvalidServerInstanceException: Invalid server instance exception has occured: The invalid appium node /Users/r.kumari/Documents/Rohini_Personal/rohini_eclipse_workspace/Android_Mobile_Automation/null/build/lib/main.js has been defined
+2019-02-01 16:19:55 ERROR DemoTest:51 - org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: '2030007706', ip: '120.255.117.154', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '9.0.4'
+Driver info: driver.version: AndroidDriver
+2019-02-01 16:19:55 INFO  DemoTest:57 -  ******** BEFORE METHOD ******** 
+2019-02-01 16:24:36 INFO  CapabilityManager:73 - ****************************** Getting Instance For ***** CapabilityManager ************** 
+2019-02-01 16:24:36 INFO  CapabilityManager:100 - ****************************** Logging Started For CapabilityManager ****************************
+2019-02-01 16:24:36 INFO  CapabilityManager:103 - ****************************** Setting Device Capabilities ************************** 
+2019-02-01 16:24:37 INFO  CapabilityManager:265 - Here is the output for the command to get Device Id ..... 38c8f972390a09bb
+2019-02-01 16:24:37 INFO  CapabilityManager:296 - Here is the output for the command to get Device OS Version ...... 7.1.1
+2019-02-01 16:24:37 INFO  CapabilityManager:172 - ****************************** STARTING APPIUM SERVER ****************************
+2019-02-01 16:24:37 INFO  CapabilityManager:198 - **** Stopping APPIUM ***************************
+2019-02-01 16:24:40 INFO  CapabilityManager:201 - **** Started APPIUM ****************************
+2019-02-01 16:24:59 INFO  AppiumUtils:32 -  ****************************** ReactUiUtils is Coming in *************************** 
+2019-02-01 16:24:59 INFO  CapabilityManager:117 - *****************************************************************************************************
+2019-02-01 16:24:59 INFO  DemoTest:57 -  ******** BEFORE METHOD ******** 
+2019-02-01 16:24:59 INFO  AppiumUtils:47 - >>> Setting WiFi >>>> Enable
+2019-02-01 16:25:06 INFO  DemoTest:68 - demoTest_1
+2019-02-01 16:25:06 INFO  AppUtils:56 - >>>> result.getStatus() >>>> 1
+2019-02-01 16:25:06 INFO  AppUtils:68 -  **************** PASSED **************** demoTest_1 ****************
+2019-02-01 16:25:07 INFO  AppUtils:78 - ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2019-02-01 16:25:07 INFO  AppUtils:80 - ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+
+
+
+ 
